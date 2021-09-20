@@ -1,7 +1,20 @@
 <!-- Main About Me -->
+# About me!
+```
+- I am a 19 year old female! 
+- I love coding on discord / FiveM
+- I like to play the games listed below!
+-- Door Kickers 1 & 2
+-- Stormworks
+-- Grand Theft Auto (Franchise)
+-- Minecraft
+- I currently own a store in Rotterdam!
+-- I specialize in tabacco industry
+```
 <!-- Main About Me -->
 
 <!-- Last Gaming Videos -->
+# Latest Video's
 <!-- Last Gaming Videos -->
 
 <!-- Languages / Tools -->
