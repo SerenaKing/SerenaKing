@@ -1,16 +1,19 @@
-### Hi there 👋
+<!-- Main About Me -->
+<!-- Main About Me -->
 
-<!--
-**SerenaKing/SerenaKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Last Gaming Videos -->
+<!-- Last Gaming Videos -->
 
-Here are some ideas to get you started:
+<!-- Languages / Tools -->
+# My Operating System
+# Prefered IDE
+# Languages I am familiar with
+<!-- Languages / Tools -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Contact Me -->
+<!-- Contact Me -->
+
+<!-- Latest Stats -->
+[![Serena King's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SerenaKing&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Serena King's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerenaKing&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
