@@ -1,7 +1,7 @@
 <!-- Main About Me -->
 # About me!
 ```
-- I am a 19 year old female! 
+- I am a 19! 
 - My name is Nicole Heartstone
 - I love coding on discord / FiveM
 - I like to play the games listed below!
