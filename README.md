@@ -34,7 +34,7 @@ My prefered editor for code is `Visual Studio Code`
 
 Javascript is the one that I first started working with on the Discord.JS lib. Later I started working with LUA for FiveM and using databses. I know very little SQL but can find my way around it if asked to. On other note I do like Quick.DB since I'm kinda a newbe to databases in my projects that involve massive settings etc.
 
-<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg" width=50 height=50> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width=50 height=50>
+<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg" width=50 height=50> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width=50 height=50> <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg" width=50 height=50> <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/css3.svg" width=50 height=50>
 <!-- Languages / Tools -->
 
 <!-- Contact Me -->
