@@ -53,7 +53,6 @@ Solutions Inc. (Inactive): https://discord.gg/ArsN57P26q
 
 <!-- Latest Stats -->
 # My github profile stats
-
-[![Serena King's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SerenaKing&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Serena King's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SerenaKing&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Serena King's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerenaKing&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
