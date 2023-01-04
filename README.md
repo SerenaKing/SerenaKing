@@ -2,11 +2,11 @@
 # About me!
 ```
 - I am a 19! 
-- My name is Nicole Heartstone
+- My name is Serena King / Izumi Sachako
 - I love coding on discord / FiveM
 - I like to play the games listed below!
 -- Door Kickers 1 & 2
--- Stormworks
+-- Men of War: Assault Squad 2
 -- Grand Theft Auto (Franchise)
 -- Minecraft
 - I currently own a store in Rotterdam!
