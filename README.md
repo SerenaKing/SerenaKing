@@ -1,7 +1,7 @@
 <!-- Main About Me -->
 # About me!
 ```
-- I am a 19! 
+- I am a 21! 
 - My name is Serena King / Izumi Sachako
 - I love coding on discord / FiveM
 - I like to play the games listed below!
