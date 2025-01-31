@@ -1,15 +1,15 @@
 <!-- Main About Me -->
 # About me!
 ```
-- I am a 21! 
+- I am a 22! (25-12-02)
 - My name is Serena King / Izumi Sachako
 - I love coding on discord / FiveM
 - I like to play the games listed below!
 -- Door Kickers 1 & 2
--- Men of War: Assault Squad 2
+-- Men of War: Assault Squad 2 / Men of War: 2
 -- Grand Theft Auto (Franchise)
 -- Minecraft
-- I currently own a store in Rotterdam!
+- I currently own a store in Rotterdam & Vlaardingen!
 -- I specialize in tabacco industry
 ```
 <!-- Main About Me -->
@@ -39,15 +39,9 @@ Javascript is the one that I first started working with on the Discord.JS lib. L
 
 <!-- Contact Me -->
 # Get in contact
-Discord: https://discord.com/users/871877975346405388
-
-Instagram: https://www.instagram.com/_.serena_king._/
-
-
-
-San Andreas Life (FiveM): https://discord.gg/6udv7G8vDb
-
-Solutions Inc. (Inactive): https://discord.gg/ArsN57P26q
+Discord: https://discord.com/users/871877975346405388<br>
+Discord Server: https://discord.lanzaned.com/<br>
+Instagram: https://www.instagram.com/_.izumi_sachako._/<br>
 
 <!-- Contact Me -->
 
